@@ -28,7 +28,7 @@ Instance creada:
 
 La pagina funciona:
 
-![pageWorks](../media/feb12/pageWorks.png)
+![pageWorks](../media/feb12/pageWorks1.png)
 
 ssh funciona:
 
