@@ -14,11 +14,11 @@ Creando `Subnet`:
 
 ![subnet](../media/feb06/subnet.png)
 
-![subnet1](../media/feb06/subnet.png)
+![subnet1](../media/feb06/subnet1.png)
 
-![subnet2](../media/feb06/subnet.png)
+![subnet2](../media/feb06/subnet2.png)
 
-![subnet3](../media/feb06/subnet.png)
+![subnet3](../media/feb06/subnet3.png)
 
 `Resource map`:
 
